@@ -1,12 +1,12 @@
-# IntervAI — Next-Generation AI Mock Interview Platform
+# IntervonaAI — Next-Generation AI Mock Interview Platform
 
 <div align="center">
 
-![IntervAI Banner](https://img.shields.io/badge/IntervAI-AI%20Interview%20Platform-f59e0b?style=for-the-badge&logo=openai&logoColor=black)
+![IntervonaAI Banner](https://img.shields.io/badge/IntervonaAI-AI%20Interview%20Platform-f59e0b?style=for-the-badge&logo=openai&logoColor=black)
 <br />
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-intervai.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://intervai.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-intervona.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://intervona.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-nilanshukumarsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilanshukumarsingh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nilanshukumarsingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilanshukumarsingh)
 [![X (Twitter)](https://img.shields.io/badge/X-@nilanshukumar81-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nilanshukumar81)
@@ -175,7 +175,7 @@ The frontend is configured for instant deployment on [Vercel](https://vercel.com
 1. Connect your repository on Vercel.
 2. Set **Root Directory** to `client` (or keep root with build command `cd client && npm install && npm run build` and output directory `client/dist`).
 3. Set Environment Variables in Vercel Dashboard matching `client/.env.example`.
-4. Ensure your production domain (`https://intervai.vercel.app`) is included in `server/index.js` CORS `allowedOrigins`.
+4. Ensure your production domain (`https://intervona.vercel.app`) is included in `server/index.js` CORS `allowedOrigins`.
 5. Client SPA routing is handled automatically by `client/vercel.json`:
 ```json
 {
@@ -196,7 +196,7 @@ The frontend is configured for instant deployment on [Vercel](https://vercel.com
 - **GitHub**: [@nilanshukumarsingh](https://github.com/nilanshukumarsingh/)
 - **LinkedIn**: [Nilanshu Kumar Singh](https://linkedin.com/in/nilanshukumarsingh)
 - **X (Twitter)**: [@nilanshukumar81](https://x.com/nilanshukumar81)
-- **Live Platform**: [https://intervai.vercel.app/](https://intervai.vercel.app/)
+- **Live Platform**: [https://intervona.vercel.app/](https://intervona.vercel.app/)
 
 ---
 

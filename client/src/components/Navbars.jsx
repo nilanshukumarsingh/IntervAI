@@ -68,7 +68,7 @@ const Navbars = () => {
             <BsRobot size={18} />
           </div>
           <h1 className="font-bold text-white tracking-tight text-lg">
-            Interv<span className="text-amber-400 font-black">AI</span>
+            Intervona<span className="text-amber-400 font-black">AI</span>
           </h1>
         </div>
 

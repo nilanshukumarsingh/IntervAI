@@ -462,7 +462,7 @@ const Auth = ({ isModel = false }) => {
           <BsRobot size={22} />
         </div>
         <span className="font-bold text-2xl tracking-tight text-white">
-          Interv<span className="text-amber-400 font-black">AI</span>
+          Intervona<span className="text-amber-400 font-black">AI</span>
         </span>
       </div>
 

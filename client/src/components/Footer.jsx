@@ -41,7 +41,7 @@ const Footer = () => {
                 <BsRobot size={20} />
               </div>
               <h2 className="font-bold text-xl text-white tracking-tight">
-                Interv<span className="text-amber-400 font-black">AI</span>
+                Intervona<span className="text-amber-400 font-black">AI</span>
               </h2>
             </div>
 
@@ -165,7 +165,7 @@ const Footer = () => {
 
         {/* BOTTOM COPYRIGHT */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} IntervAI. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} IntervonaAI. All rights reserved.</p>
 
           <div className="flex gap-6">
             <span className="hover:text-gray-400 cursor-pointer transition">Privacy Policy</span>

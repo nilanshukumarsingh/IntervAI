@@ -21,7 +21,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
   "https://ai-interview-frontend-phi.vercel.app",
-  "https://ai-interview-drab-nu.vercel.app",
+  "https://intervona.vercel.app",
+  "https://www.intervona.vercel.app",
   "https://intervai.vercel.app",
   "https://www.intervai.vercel.app",
 ].filter(Boolean);
